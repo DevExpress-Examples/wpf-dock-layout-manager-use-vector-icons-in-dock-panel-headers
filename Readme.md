@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XAMLIcon.xaml](./CS/XAMLIcons/Images/XAMLIcon.xaml) (VB: [XAMLIcon.xaml](./VB/XAMLIcons/Images/XAMLIcon.xaml))
+* [MainWindow.xaml](./CS/XAMLIcons/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/XAMLIcons/MainWindow.xaml))
+<!-- default file list end -->
 # How to use vector icons in dock panel headers
 
 
