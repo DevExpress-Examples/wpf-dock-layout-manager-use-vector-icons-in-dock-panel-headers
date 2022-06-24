@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # WPF Dock Layout Manager - Use Vector Icons in Dock Panel Headers
 
-This example demonstrates how to use raster and vector icons in dock panel headers. The vector icon is defined in XAML resources.
+This example uses raster and vector icons in dock panel headers. The vector icon is defined in XAML resources.
 
 <img src="https://user-images.githubusercontent.com/12169834/175380543-b8950928-8bf9-40f8-9cdc-4ee6c5de9298.png" width=400px/>
 
