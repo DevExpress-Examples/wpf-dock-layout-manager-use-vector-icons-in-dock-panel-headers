@@ -1,4 +1,4 @@
-﻿Microsoft Visual Studio Solution File, Format Version 11.00
+Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 16
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XAMLIcons", "XAMLIcons\XAMLIcons.Net5.vbproj", "{59C6FAB9-8C30-4A6F-A0A8-4C977803A997}"
 EndProject
