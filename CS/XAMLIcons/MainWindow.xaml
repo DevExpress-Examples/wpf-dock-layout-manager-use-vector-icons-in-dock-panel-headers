@@ -5,13 +5,13 @@
         xmlns:dxdo="http://schemas.devexpress.com/winfx/2008/xaml/docking"
         Title="DXWpfApplication" Height="600" Width="800"
         dx:ThemeManager.ThemeName="VS2019Light">
-    <dx:DXWindow.Resources>
+    <dx:ThemedWindow.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Images/XAMLIcon.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
-    </dx:DXWindow.Resources>
+    </dx:ThemedWindow.Resources>
     <dxdo:DockLayoutManager>
         <dxdo:LayoutGroup>
             <dxdo:LayoutPanel Caption="Panel with vector icon" CaptionImage="{StaticResource xamlIcon}">
