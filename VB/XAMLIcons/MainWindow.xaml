@@ -18,7 +18,7 @@
             <dxd:LayoutPanel Caption="Panel with vector icon" CaptionImage="{StaticResource xamlIcon}">
                 <TextBox BorderThickness="0" />
             </dxd:LayoutPanel>
-            <dxd:LayoutPanel Caption="Panel with raster icon" Height="3*" CaptionImage="Images/RasterIcon.png">
+            <dxd:LayoutPanel Caption="Panel with raster icon" CaptionImage="Images/RasterIcon.png" ItemHeight="3*">
                 <TextBox BorderThickness="0" />
             </dxd:LayoutPanel>
         </dxd:LayoutGroup>
